@@ -3,3 +3,4 @@
 /model/*      # Ignore everything in the models folder
 !model/       # Allow the models folder to be tracked
 !model/**     # Allow all other files inside models to be tracked, except for the ones above
+.gitkeep
