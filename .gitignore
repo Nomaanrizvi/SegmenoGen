@@ -2,4 +2,3 @@
 /models/yolo.pt
 /models/*  # Ignore everything in the models folder
 !models/   # Allow the models folder to be tracked
-!models/*  # Allow other files in models folder to be tracked, except the ones we excluded above
