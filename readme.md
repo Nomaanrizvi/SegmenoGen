@@ -13,6 +13,11 @@ Users can select their preferred model based on their specific needs and image c
 - Interactive visualization of segmentation results
 - Model selection interface
 
+## Working
+[Watch the working](/video.mp4)
+
+
+
 ## Installation
 
 ### Prerequisites
