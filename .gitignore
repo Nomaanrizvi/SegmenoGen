@@ -1,4 +1,5 @@
 /models/unet.pth
 /models/yolo.pt
-/models/*
-!models/
+/models/*  # Ignore everything in the models folder
+!models/   # Allow the models folder to be tracked
+!models/*  # Allow other files in models folder to be tracked, except the ones we excluded above
