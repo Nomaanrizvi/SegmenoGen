@@ -2,4 +2,3 @@
 /models/yolo.pt
 /models/*
 !models/
-__pycache__
