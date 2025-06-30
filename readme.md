@@ -14,7 +14,7 @@ Users can select their preferred model based on their specific needs and image c
 - Model selection interface
 
 ## Working
-[Watch the working](/video.mp4)
+[Watch the working](https://drive.google.com/file/d/1VcCYcUvFKvza9MIk7StOV9RIveTyDMJu/view?usp=drive_link)
 
 
 
